@@ -18,3 +18,6 @@ Feel free to reach out to me at: adduma.attia@gmail.com
 
 I love rock climbing and have a soft spot for cats!
 
+## Badges
+
+!Top Langs
