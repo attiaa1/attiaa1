@@ -20,5 +20,5 @@ I love rock climbing and have a soft spot for cats!
 
 ## Badges
 
-[!Github Stats](https://github-readme-stats.vercel.app/api?username=attiaa1&show_icons=true&theme=radical)
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attiaa1&layout=compact&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=attiaa1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attiaa1&layout=compact&theme=radical)
