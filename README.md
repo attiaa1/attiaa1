@@ -8,6 +8,6 @@ I'm a passionate Software Engineer with a background in Electrical Engineering. 
 
 Feel free to reach out to me at: adduma.attia@gmail.com
 
-## Fun Fact
+## Fun Facts
 
 I love rock climbing and have a soft spot for cats!
