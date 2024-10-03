@@ -2,13 +2,7 @@
 
 ## About Me
 
-I'm a passionate Software Engineer with a background in Electrical Engineering. I completed my Master's in Electrical and Computer Engineering, specializing in Signal Processing. I love web development.
-
-## Skills
-
-- **Full Stack Development**: Node.js
-- **Backend Development**: Python
-- **CI/CD**: Gitlab
+I'm a passionate Software Engineer with a background in Electrical Engineering. I achieved my Master's in Electrical and Computer Engineering, specializing in Signal Processing. I love web development, and automating things!
 
 ## Contact Me
 
@@ -17,9 +11,3 @@ Feel free to reach out to me at: adduma.attia@gmail.com
 ## Fun Fact
 
 I love rock climbing and have a soft spot for cats!
-
-## Quick Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attiaa1&layout=compact&theme=radical)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=attiaa1&show_icons=true&theme=radical)
